@@ -1,4 +1,5 @@
-- 'scrobbles.plex.tv'
-- 'analytics.plex.tv'
-- 'metadata.provider.plex.tv'
-- 'images.plex.tv'
+payload:
+  - 'scrobbles.plex.tv'
+  - 'analytics.plex.tv'
+  - 'metadata.provider.plex.tv'
+  - 'images.plex.tv'
